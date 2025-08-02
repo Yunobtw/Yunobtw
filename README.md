@@ -1,5 +1,14 @@
-## Hi there 👋
+## Sup
 
+### discord: yunonyavnyav
+### telegram: https://t.me/yuno1221
+
+
+## My skills:
+
+<div id="header" align="left">
+  <img src="https://raw.githubusercontent.com/isocpp/logos/master/cpp_logo.png" width="100"/>
+</div>
 <!--
 **Yunobtw/Yunobtw** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
