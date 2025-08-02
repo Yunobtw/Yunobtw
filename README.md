@@ -6,7 +6,7 @@
 
 
 ## My skills:
-<div id="badges">
+<div id="icons">
   <img src="https://raw.githubusercontent.com/isocpp/logos/master/cpp_logo.png" width="100"/>
   <img src="https://go.dev/blog/go-brand/Go-Logo/PNG/Go-Logo_LightBlue.png" width="120"/>
   
