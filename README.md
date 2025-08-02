@@ -5,14 +5,12 @@
 
 
 ## My skills:
-<div id= "lol" height = "100">
-  <div id="header" align="left">
-    <img src="https://raw.githubusercontent.com/isocpp/logos/master/cpp_logo.png" width="100"/>
-  </div>
 
-  <div id="header" align="center">
-    <img src="https://go.dev/blog/go-brand/Go-Logo/PNG/Go-Logo_LightBlue.png" width="100"/>
-  </div>
+
+<div id="badges">
+  <img src="https://raw.githubusercontent.com/isocpp/logos/master/cpp_logo.png" width="100"/>
+  <img src="https://go.dev/blog/go-brand/Go-Logo/PNG/Go-Logo_LightBlue.png" width="100"/>
+  
 </div>
 <!--
 **Yunobtw/Yunobtw** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
