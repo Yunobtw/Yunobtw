@@ -5,12 +5,12 @@
 
 
 ## My skills:
-<div>
+<div id= "lol" height = "100">
   <div id="header" align="left">
     <img src="https://raw.githubusercontent.com/isocpp/logos/master/cpp_logo.png" width="100"/>
   </div>
 
-  <div id="header" align="left">
+  <div id="header" align="center">
     <img src="https://go.dev/blog/go-brand/Go-Logo/PNG/Go-Logo_LightBlue.png" width="100"/>
   </div>
 </div>
