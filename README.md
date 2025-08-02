@@ -4,9 +4,8 @@
 ### telegram: https://t.me/yuno1221
 
 
+
 ## My skills:
-
-
 <div id="badges">
   <img src="https://raw.githubusercontent.com/isocpp/logos/master/cpp_logo.png" width="100"/>
   <img src="https://go.dev/blog/go-brand/Go-Logo/PNG/Go-Logo_LightBlue.png" width="120"/>
