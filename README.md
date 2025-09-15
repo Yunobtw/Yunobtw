@@ -11,6 +11,7 @@
   <img src="https://go.dev/blog/go-brand/Go-Logo/PNG/Go-Logo_LightBlue.png" width="120"/>
   
 </div>
+<img src="https://images-ext-1.discordapp.net/external/Lo5X3zw9uugtDP3CriqZoyHPQ_S5XqAAHBVIXaD0M_w/https/media.tenor.com/w_qeRoiHblkAAAPo/%25D0%25B0%25D1%2585%25D0%25B0%25D1%2585%25D0%25B0%25D1%2585-%25D0%25BC%25D0%25B5%25D0%25BC.mp4" width="120"/>
 <!--
 **Yunobtw/Yunobtw** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
