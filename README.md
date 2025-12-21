@@ -3,7 +3,11 @@
 ### discord: yunonyavnyav
 ### telegram: https://t.me/yuno1221
 
-
+<div id="animeC">
+  <img src="https://github.com/cat-milk/Anime-Girls-Holding-Programming-Books/blob/master/C/Ai_Hayasaka_Holding_The_C_Programming_Language.png" width="100%"/>
+  
+  
+</div>
 
 ## My skills:
 <div id="icons">
