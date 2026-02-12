@@ -1,6 +1,6 @@
 ## Sup
 
-### A 10th-grader from Russia, love solve programming problems
+
 ### Anime girls enjoyer, competitive programming enjoyer
 ### I want to enroll in ITMO University/Innopolis/HSE
 <div id="animeC">
